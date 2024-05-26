@@ -1,1 +1,1 @@
-calculator using HTML5 , CSS3  and JavaScript
+Simple working calculator using HTML5 , CSS3  and JavaScript
